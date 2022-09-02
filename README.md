@@ -2,7 +2,7 @@
 
 A quick-start example to help you add the Syncfusion Flutter Treemap widget to a Flutter app. In this example, you will learn how to add labels, tooltips, and legends to the Treemap widget.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/treemap?title=create-a-flutter-treemap-widget-in-10-minutes
 
 Documentation: https://help.syncfusion.com/flutter/treemap/overview
 
